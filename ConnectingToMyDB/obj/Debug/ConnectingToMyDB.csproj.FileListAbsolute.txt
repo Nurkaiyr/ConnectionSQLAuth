@@ -1,0 +1,15 @@
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\bin\Debug\ConnectingToMyDB.exe.config
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\bin\Debug\ConnectingToMyDB.exe
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\bin\Debug\ConnectingToMyDB.pdb
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\ConnectingToMyDB.csprojResolveAssemblyReference.cache
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\MainWindow.g.cs
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\App.g.cs
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\ConnectingToMyDB_MarkupCompile.cache
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\ConnectingToMyDB_MarkupCompile.lref
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\MainWindow.baml
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\ConnectingToMyDB.g.resources
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\ConnectingToMyDB.Properties.Resources.resources
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\ConnectingToMyDB.csproj.GenerateResource.cache
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\ConnectingToMyDB.csproj.CoreCompileInputs.cache
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\ConnectingToMyDB.exe
+c:\users\едиген\source\repos\ConnectingToMyDB\ConnectingToMyDB\obj\Debug\ConnectingToMyDB.pdb
